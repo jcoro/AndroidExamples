@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidExamples</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <string name="map_error_message">There was a problem with the map.</string>
+    <string name="map_fragment_description">Launch map for: 1600 Amphitheatre Parkway, Mountain View, CA 94043</string>
+</resources>
