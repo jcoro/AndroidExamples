@@ -1,5 +1,5 @@
 # Android Examples
-This App is a "sandbox" app for playing around with some features of the Android platform.
+This App is a "sandbox" app for playing around with some features of the Android platform. It's a work in progress and more features will be added periodically.
 
 ![Show an address on a map](http://www.coronite.net/assets/img/github/project0.png)
 
