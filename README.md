@@ -1,11 +1,12 @@
 # Android Examples
 This App is a "sandbox" app for playing around with some features of the Android platform. It's a work in progress and more features will be added periodically.
 
-![Show an address on a map](http://www.coronite.net/assets/img/github/project0.png)
+![Show an address on a map](http://www.coronite.net/assets/img/github/AndroidExamples.png)
 
 ## Android Features Implemented:
 - [RecyclerView](https://developer.android.com/reference/android/support/v7/recyclerview/package-summary.html)
 - [Implicit Intents (Show an address on a map)](https://developer.android.com/guide/components/intents-common.html#Maps)
+- [Master-Detail UI](https://developer.android.com/training/implementing-navigation/descendant.html)
 
 ## Specifications
 - `compileSdkVersion 25`
